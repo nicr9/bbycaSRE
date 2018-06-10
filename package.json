@@ -10,7 +10,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node bestbuy.ca.js"
+    "start": "node bestbuy.ca.js"
   },
   "repository": {
     "type": "git",
