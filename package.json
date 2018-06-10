@@ -1,0 +1,27 @@
+{
+  "name": "bbycasre",
+  "version": "1.0.0",
+  "description": "Bestbuy tech assignment",
+  "main": "bestbuy.ca.js",
+  "dependencies": {
+    "express": "4.13.3",
+    "ejs": "2.4.1",
+    "path": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node bestbuy.ca.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omartinezpou/bbycaSRE.git"
+  },
+  "keywords": [
+    "bestbuy"
+  ],
+  "author": "nicroland",
+  "bugs": {
+    "url": "https://github.com/omartinezpou/bbycaSRE/issues"
+  },
+  "homepage": "https://github.com/omartinezpou/bbycaSRE#readme"
+}
